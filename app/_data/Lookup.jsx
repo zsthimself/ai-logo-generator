@@ -1,6 +1,16 @@
 export default{
     HeroHeading:'AI Logo Make',
     HeroSubheading:'Perfect Logo for APPS, Businesses, and Websites',
-    HeroDesc:'Craft unique and professional logos effortlessly with output',
-    InputTitlePlaceholder:'Enter your Logo Name'
+    HeroDesc:'Craft unique and professional logos effortlessly with our AI-powered tool',
+    InputTitlePlaceholder:'Enter your Logo Name',
+    LogoTitle:'Logo Title',
+    LogoTitleDesc:'Add Your Business, App, or Website Name for a Custom Logo',
+    LogoDescTitle:'Describe Your Logo Vision',
+    LogoDescDesc:'share your ideas,themes,or inspirations to create',
+    LogoIdeaTitle:'Select Your Design Idea',
+    LogoIdeaDesc:'Choose a design style that aligns with your vision,',
+    LogoDesignTitle:'Choose Your Logo Style',
+    LogoDesignDesc:'Select the type of logo design that best represents',
+    LogoColorPaletteTitle:'Choose Your Color Palette',
+    LogoColorPaletteDesc:'Pick the colors that reflect your brands per',
 }
